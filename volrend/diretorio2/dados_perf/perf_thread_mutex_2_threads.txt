@@ -1,0 +1,10 @@
+
+ Performance counter stats for './build/app/main -i native -n 2':
+
+   669.453.981.304      instructions              #    1,78  insn per cycle           (99,99%)
+   376.350.851.671      cycles                                                        (99,99%)
+                 0      mem-loads                                                     (99,99%)
+    37.806.498.632      mem-stores                                                    (99,98%)
+
+      76,254915007 seconds time elapsed
+
